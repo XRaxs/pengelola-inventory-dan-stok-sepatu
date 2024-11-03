@@ -1,5 +1,4 @@
 {
-    "version": 2,
     "builds": [
       {
         "src": "app.py",
@@ -12,4 +11,4 @@
         "dest": "app.py"
       }
     ]
-  }
+}
